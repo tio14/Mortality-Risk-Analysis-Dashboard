@@ -1,8 +1,9 @@
 # Mortality-Risk-Analysis-Dashboard
 
 ## Dashboard
-
-![My animated logo](Dashboard-Screenshot/Page1.PNG)
+![Page1](Dashboard-Screenshot/Page1.PNG)
+![Page2](Dashboard-Screenshot/Page2.PNG)
+![Page3](Dashboard-Screenshot/Page3.PNG)
 
 ## Deskripsi 
 Tingkat kematian di Indonesia diproyeksikan akan terus mengalami peningkatan semenjak tahun 2015. Salah satu cara yang dapat dilakukan untuk menurunkan angka tingkat kematian adalah dengan melakukan analisis penyebab kematian melalui data yang disediakan oleh BPJS. Beberapa hal yang dapat dijadikan asumsi terkait faktor penyebab kematian diantaranya: fasilitas kesehatan yang kurang memadai, diagnosa penyakit, dan profil dari peserta JKN-KIS. 
